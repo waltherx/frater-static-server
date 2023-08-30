@@ -1,0 +1,20 @@
+{
+  "name": "static-server-frater",
+  "version": "0.1.0",
+  "description": "servidor para la app cliente de appfrater",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "react"
+  ],
+  "author": "mddx56",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "4.18.2"
+  }
+}

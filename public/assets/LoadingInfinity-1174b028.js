@@ -1,0 +1,1 @@
+import{j as n}from"./index-a4d01ccf.js";function a(){return n.jsx(n.Fragment,{children:n.jsx("div",{className:"text-center",children:n.jsx("span",{className:"loading loading-infinity loading-lg"})})})}export{a as L};
