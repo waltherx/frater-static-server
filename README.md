@@ -13,10 +13,11 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu sistema.
    ```bash
    git clone https://github.com/waltherx/frater-static-server.git
    cd frater-static-server
-   npm intall
+   
 
 
-1. **Clona el repositorio:**
+1. **Instala dependencias y correr servidor:**
 
     ```
+    npm intall
     npm run start
